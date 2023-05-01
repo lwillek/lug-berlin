@@ -1,0 +1,13 @@
+baseURL = 'https://lug.berlin/'
+title = 'Local User Groups · Berlin'
+languageCode = 'de-de'
+cleanDestinationDir = true
+enableEmoji = true
+enableGitInfo = true
+enableRobotsTXT = true
+theme = 'ananke'
+
+[params]
+  AuthorName = 'Lutz Willek'
+  GitHubUser = 'lwillek'
+
