@@ -1,13 +1,15 @@
-baseURL = 'https://lug.berlin/'
 title = 'Local User Groups · Berlin'
+baseURL = 'https://lug.berlin/'
 languageCode = 'de-de'
+theme = 'ananke'
 cleanDestinationDir = true
 enableEmoji = true
 enableGitInfo = true
 enableRobotsTXT = true
-theme = 'ananke'
 
 [params]
   AuthorName = 'Lutz Willek'
   GitHubUser = 'lwillek'
+  description = "Eine Übersicht der Lokalen User Gruppen in und rund um Berlin mit Bezug zu Freier Software"
+  favicon = "img/favicon.ico" # Path to favicon file
 
